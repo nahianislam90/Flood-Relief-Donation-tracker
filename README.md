@@ -15,7 +15,7 @@ How to Use
 
 Only one package is needed:
 
-bash
+
 pip install pandas
 Tkinter comes with Python automatically.
 
@@ -25,7 +25,6 @@ Make sure you have this file in your folder:
 donor_tracker.py (the app code)
 Then run:
 
-bash
 Copy
 Edit
 python donor_tracker.py
