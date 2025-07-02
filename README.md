@@ -39,9 +39,5 @@ Type the donor’s name, amount, date (e.g. 2024-07-01), and method (cash/online
 
 Click Add Donor
 
-4. Show Donors
-Click Show All Donors to see the full list and total money collected.
-donor_tracker.py     # Main app
-donors.json          # Saved donor data
-README.md            # This file
+
 
