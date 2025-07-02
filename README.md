@@ -1,4 +1,4 @@
-#  Flood Relief Donation Tracker
+ Flood Relief Donation Tracker
 
 This is a simple Python app to track donations for a flood relief campaign.
 
@@ -9,15 +9,13 @@ You can:
 
 Built using Python and Tkinter. Data is saved in a JSON file.
 
----
 
-## How to Use
-
-### 1. Install Required Package
+How to Use
+1. Install Required Package
 
 Only one package is needed:
 
-```bash
+bash
 pip install pandas
 Tkinter comes with Python automatically.
 
@@ -43,10 +41,7 @@ Click Add Donor
 
 4. Show Donors
 Click Show All Donors to see the full list and total money collected.
- Files
-bash
-Copy
-Edit
 donor_tracker.py     # Main app
 donors.json          # Saved donor data
 README.md            # This file
+
